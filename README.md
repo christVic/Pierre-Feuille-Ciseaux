@@ -5,14 +5,16 @@ Nous proposons  2<!--3--> versions du jeu:
 * deux versions sur le terminal(chiFuMi_v0.py et chiFuMi_v1.py)
 <!--* une version avec une interface graphique-->
 ## chiFuMi_v0 (sur le terminal)
-Il indique uniquement si le joueur à remporté ou perdu la mance
+* Il indique uniquement si le joueur à remporté ou perdu la manche.
+* Le nombre de manche est defini dans le code.
 ### Pré-requis
 * Python3
 ### Lancement du jeu
 python3 chiFuMi_v0.py
 
 ## chiFuMi_v1 (sur le terminal)
-Il indique si le joueur à remporté ou perdu la manche mais aussi pourquoi
+* Il indique si le joueur à remporté ou perdu la manche mais aussi pourquoi.
+* Le joueur peut saisir un pseudo, choisir le nombre de manche.
 ### Pré-requis
 * Python3
 ### Lancement du jeu
