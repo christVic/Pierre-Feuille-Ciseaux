@@ -1,6 +1,5 @@
 # Pierre-Feuille-Ciseaux
 Programmes en python du jeu "Pierre Feuille Ciseaux" ou "Chifumi" ou "Pierre Papier ciseaux" entre un joueur et l'ordinateur.
-Etat : En cours de développement
 # Versions
 Nous proposons  2<!--3--> versions du jeu:
 * deux versions sur le terminal(chiFuMi_v0.py et chiFuMi_v1.py)
