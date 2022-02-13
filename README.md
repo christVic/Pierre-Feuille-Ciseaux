@@ -10,7 +10,9 @@ Nous proposons  2<!--3--> versions du jeu:
 ### Pré-requis
 * Python3
 ### Lancement du jeu
+```
 python3 chiFuMi_v0.py
+```
 
 ## chiFuMi_v1 (sur le terminal)
 * Il indique si le joueur à remporté ou perdu la manche mais aussi pourquoi.
@@ -18,7 +20,10 @@ python3 chiFuMi_v0.py
 ### Pré-requis
 * Python3
 ### Lancement du jeu
+```
 python3 chiFuMi_v1.py
+```
+
 ### Améliorations possible
 * la comparaison des choix du joueur et de l'ordinateur
 <!--
@@ -27,4 +32,7 @@ python3 chiFuMi_v1.py
 * Python3
 * Pygame
 ### Lancement du jeu
-python3 chiFuMi_v2.py-->
+```
+python3 chiFuMi_v2.py
+```
+-->
